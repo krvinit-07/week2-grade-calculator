@@ -1,1 +1,37 @@
+============================================================
+               STUDENT GRADE CALCULATOR    
+============================================================
+
+Enter number of students: 3
+
+=== STUDENT 1 ===
+Student name: El
+Enter marks (0–100):
+Math: 97
+Science: 86
+English: 79
+
+=== STUDENT 2 ===
+Student name: Will
+
+============================================================
+                 RESULTS SUMMARY
+============================================================
+Name                 |   Avg | Grade | Comment
+---------------------------------------------------------------------------
+El                   |  87.3 |   B   | Very Good! You're doing well.
+Will                 |  91.7 |   A   | Excellent! Keep up the great work!
+Max                  |  69.7 |   D   | Needs Improvement. Please study more.
+
+============================================================
+                 CLASS STATISTICS
+============================================================
+Total Students: 3
+Class Average: 82.9
+Highest Average: 91.7 (Will)
+Lowest Average: 69.7 (Max)
+
+============================================================
+Thank you for using the Grade Calculator!
+============================================================
 
